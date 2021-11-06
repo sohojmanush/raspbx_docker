@@ -1,4 +1,4 @@
-# rasPBX_Docker
+# raspbx_docker
 This is a complete port of RasPBX (Asterisk for raspberry pi.)
 
 **How this image was created:**
