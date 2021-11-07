@@ -14,7 +14,7 @@ Then,
 ```
 $ cp -a /rootfs/. /raspbx/
 $ nano /raspbx/run/startup.sh
-$ chmod +x /run/*
+$ chmod +x /raspbx/run/*
 $ tar -C raspbx -c . | docker import - raspbx 
 ```
 
